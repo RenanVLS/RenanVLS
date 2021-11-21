@@ -25,4 +25,5 @@
 <img align="center"  alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"  />
 </div><br/>
 
-Apaixonado por tecnologia, Cursando Analise e Desenvolvimento de sistemas.
+Apaixonado por tecnologia, Cursando Analise e Desenvolvimento de sistemas,
+facilidade com Redes e PowerBI.
